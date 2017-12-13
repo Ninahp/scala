@@ -1,0 +1,2 @@
+;reload; set _root_.org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers resolveSbtClassifiers" ;*/*:dumpStructureTo C:/Users/KENNED~1/AppData/Local/Temp/sbt-structure.xml; session clear-all
+all {file:/D:/RepoMan/scala/akkaiot_v2/}akkaiot_v2/products {file:/D:/RepoMan/scala/akkaiot_v2/}akkaiot_v2/test:products
