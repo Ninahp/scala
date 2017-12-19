@@ -1,4 +1,0 @@
-[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
-[0m[[0mdebug[0m] [0m	(D:\RepoMan\scala\akaiot\src\main\resources\application.conf,D:\RepoMan\scala\akaiot\target\scala-2.11\classes\application.conf)[0m
-[0m[[0mdebug[0m] [0m	(D:\RepoMan\scala\akaiot\src\main\resources\iotagent.conf,D:\RepoMan\scala\akaiot\target\scala-2.11\classes\iotagent.conf)[0m
-[0m[[0mdebug[0m] [0m	(D:\RepoMan\scala\akaiot\src\main\resources\worker.conf,D:\RepoMan\scala\akaiot\target\scala-2.11\classes\worker.conf)[0m
