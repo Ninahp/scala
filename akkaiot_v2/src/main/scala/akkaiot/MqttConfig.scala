@@ -16,9 +16,9 @@ object MqttConfig {
 
   // Pub-Sub config
   val psConfig = PSConfig(
-    brokerUrl = "tcp://sungura1-angani-ke-host.africastalking.com:1883",
-    userName = "sandbox",
-    password = "sandbox",
+    brokerUrl = "tcp://sungura1-angani-ke-host.africastalking.com:10883",
+    userName = "akka",
+    password = "akkapass",
     stashTimeToLive = 1.minute,
     stashCapacity = 8000,
     reconnectDelayMin = 10.millis,
