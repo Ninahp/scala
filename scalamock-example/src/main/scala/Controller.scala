@@ -29,7 +29,7 @@ class Controller(turtle: Turtle) {
         moveTo(start)
 
         val initialAngle = turtle.getAngle
-        val deltaPos        = delta(start, end)
+        val deltaPos     = delta(start, end)
 
         turtle.turn(angle(deltaPos) - initialAngle)
         turtle.penDown
@@ -49,7 +49,7 @@ class Controller(turtle: Turtle) {
         val initialPos   = turtle.getPosition
         val initialAngle = turtle.getAngle
 
-        val deltaPos        = delta(initialPos, pos)
+        val deltaPos     = delta(initialPos, pos)
 
         turtle.penUp
         turtle.turn(angle(deltaPos) - initialAngle)
